@@ -180,6 +180,8 @@ Tesla confirmed full dry electrode production for 4680 cells (January 2026). Ada
 
 Timeline: begin R&D 12 months after Phase 1 validation. Target: Phase 2 prototype at 24–30 months.
 
+Eliminating NMP solvents and utilizing PTFE binders in the DBE (Dry Battery Electrode) process allows for higher cathode compaction without cracking. This increase in tap density, combined with passive packaging optimization, provides a clear engineering pathway to push the cell's specific energy to 210–215 Wh/kg in Phase 2, without altering the baseline chemistry. This evolutionary step bridges the gap between extreme durability and top-tier energy density.
+
 ### Phase 3 — Next-generation cathode (TRL 1–2)
 Explore single-crystal LMFP for further cycle life gains, higher Mn content (65/35) enabled by improved dissolution control, and Si-C composite anode for energy density >220 Wh/kg.
 
