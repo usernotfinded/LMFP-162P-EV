@@ -169,4 +169,7 @@ Plating risk score (0–100 scale) at selected operating points. Risk ≥ 70 is 
 
 ---
 
+## 11. Future Upside / Design Margins
+The data in this datasheet reflects a highly conservative Phase 1 (TRL 4–5) design, utilizing a standard aluminum enclosure resulting in a cell mass of 3.05–3.20 kg. The optimization of the packaging ratio and the planned adoption of dry electrode lamination in Phase 2 project an optimized specific energy target of 215 Wh/kg. This future upside is designed to be unlocked while strictly maintaining the current worst-case safety parameters and the 4C fast-charge capability.
+
 *Revision 1.1 — All specifications are simulation-based and require experimental validation through prototype cell testing. Pack worst-case values use a conservative thermal gradient model calibrated against published multi-cell pack data.*
